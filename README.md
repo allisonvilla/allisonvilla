@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👩‍💻 What I'm working on lately:
 - A gratitude journal built with React and Firebase (to practice functional programming concepts and creating custom hooks)
-- Harvard's [CS50](https://cs50.harvard.edu/x/2022/ "CS50") 
+- An intro computer science course, [CS50](https://cs50.harvard.edu/x/2022/ "CS50")
 
 📚 What I'd love to learn next:
 - Unit testing
