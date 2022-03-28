@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - A gratitude journal built with React and Firebase (to practice functional programming concepts and creating custom hooks)
 - Studying an intro computer science course, [CS50](https://cs50.harvard.edu/x/2022/ "CS50")
 
-📚 What I'd love to learn next:
+📚 What I'd like to learn next:
 - Unit testing
 - TypeScript
 - React Redux
