@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### 😊 Hi there! I'm Allison, a front end developer.
 
 👩‍💻 What I'm working on lately:
+- Refactoring and updating some of my previous projects
 - A gratitude journal built with React and Firebase (to practice functional programming concepts, creating custom hooks, sorting through a database)
 - Studying an intro computer science course, [CS50](https://cs50.harvard.edu/x/2022/ "CS50")
 
