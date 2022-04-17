@@ -1,7 +1,7 @@
 ### 😊 Hi there! I'm Allison, a front end developer.
 
 👩‍💻 What I'm working on lately:
-- Learning how to write a simple JSON API
+- Revisiting and refactoring old projects
 - Studying an intro computer science course, [CS50](https://cs50.harvard.edu/x/2022/ "CS50")
 
 📚 What I'd like to learn next:
