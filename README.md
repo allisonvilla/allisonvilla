@@ -1,7 +1,7 @@
 ### 😊 Hi there! I'm Allison, a front end developer.
 
 👩‍💻 What I'm working on lately:
-- A gratitude journal built with React and Firebase (to practice functional programming concepts and implement some new features I want to try)
+- A gratitude journal built with Vue.js and Firebase (to get familiar with Vue and learn a new technology)
 - Studying an intro computer science course, [CS50](https://cs50.harvard.edu/x/2022/ "CS50")
 
 📚 What I'd like to learn next:
