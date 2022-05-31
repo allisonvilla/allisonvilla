@@ -14,4 +14,4 @@
 - Unit testing
 - TypeScript
 
-#### 📫 I'd love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/allisonvilla/ "Link to my LinkedIn profile") or at [allisonvilla.dev@gmail.com](emailto:allisonvilla.dev@gmail.com).
+#### 📫 I'd love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/allisonvilla/ "Link to my LinkedIn profile") or at allisonvilla.dev@gmail.com.
