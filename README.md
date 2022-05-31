@@ -1,5 +1,10 @@
 ### 😊 Hi there! I'm Allison, a front end developer.
 
+💖 My current tech stack:
+- JavaScript
+- React
+- Vue
+
 👩‍💻 What I'm working on lately:
 - A gratitude journal built with Vue.js and Firebase
 - Learning NextJS
