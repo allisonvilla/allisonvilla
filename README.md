@@ -12,7 +12,6 @@
 - Sass, Tailwind
 
 👩‍💻 **What I'm working on lately:**
-- A gratitude journal built with Vue.js and Firebase
 - Learning NextJS
 - Studying an intro computer science course, [CS50](https://cs50.harvard.edu/x/2022/ "CS50")
 
