@@ -1,6 +1,6 @@
 ### 😊 Hi there! I'm Allison, a front end developer.
 
-💖 **My current tech stack:**
+✨ **My current tech stack:**
 
 &emsp;Languages: 
 - JavaScript
