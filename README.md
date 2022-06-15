@@ -11,7 +11,7 @@
 &emsp;CSS Frameworks:
 - Sass, Tailwind
 
-👩‍💻 **What I'm working on lately:**
+👩🏻‍💻 **What I'm working on lately:**
 - Learning NextJS
 - Studying an intro computer science course, [CS50](https://cs50.harvard.edu/x/2022/ "CS50")
 
