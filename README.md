@@ -8,7 +8,7 @@
 &emsp;Frameworks & Libraries: 
 - React, Vue, NextJS
 
-&emsp;CSS Frameworks:
+&emsp;CSS Frameworks & Preprocessors:
 - Sass, Tailwind
 
 👩🏻‍💻 **What I'm working on lately:**
