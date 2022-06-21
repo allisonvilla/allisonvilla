@@ -6,7 +6,7 @@
 - JavaScript
 
 &emsp;Frameworks & Libraries: 
-- React, Vue, NextJS
+- React, Vue, Next
 
 &emsp;CSS Frameworks & Preprocessors:
 - Sass, Tailwind
