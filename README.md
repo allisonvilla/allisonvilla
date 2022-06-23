@@ -12,7 +12,6 @@
 - Sass, Tailwind
 
 👩🏻‍💻 **What I'm working on lately:**
-- Learning NextJS
-- Studying an intro computer science course, [CS50](https://cs50.harvard.edu/x/2022/ "CS50")
+- Learning NextJS and TypeScript
 
 #### 📫 I'd love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/allisonvilla/ "Link to my LinkedIn profile") or at allisonvilla.dev@gmail.com.
