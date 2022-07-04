@@ -6,10 +6,13 @@
 - JavaScript
 
 &emsp;Frameworks & Libraries: 
-- React, Vue, Next
+- React
+- Vue
+- Next
 
 &emsp;CSS Frameworks & Preprocessors:
-- Sass, Tailwind
+- Sass
+- Tailwind
 
 👩🏻‍💻 **What I'm working on lately:**
 - Learning NextJS and TypeScript
