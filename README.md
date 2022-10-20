@@ -1,20 +1,21 @@
-### 😊 Hi there! I'm Allison, a front end developer.
+<h1 align="center">😊 Hi there! I'm Allison, a front end developer.</h1>
 
-✨ **My current tech stack:**
+<div align="center">
 
-&emsp;Languages: 
-- JavaScript
+### ✨ My current tech stack:
 
-&emsp;Frameworks & Libraries: 
-- React
-- Vue
-- Next
+#### Languages: 
+JavaScript
 
-&emsp;CSS Frameworks & Preprocessors:
-- Sass
-- Tailwind
+#### JS Frameworks & Libraries: 
+ReactJS, VueJS, NextJS
 
-👩🏻‍💻 **What I'm working on lately:**
-- Learning NextJS and Jest
+#### CSS Frameworks & Preprocessors:
+Sass, Tailwind
+
+### 💻 What I'm working on lately:
+Learning Jest and TypeScript
 
 #### 📫 I'd love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/allisonvilla/ "Link to my LinkedIn profile") or at allisonvilla.dev@gmail.com.
+
+</div>
