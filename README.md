@@ -15,6 +15,6 @@
 - Tailwind
 
 👩🏻‍💻 **What I'm working on lately:**
-- Learning NextJS and TypeScript
+- Learning NextJS and Jest
 
 #### 📫 I'd love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/allisonvilla/ "Link to my LinkedIn profile") or at allisonvilla.dev@gmail.com.
