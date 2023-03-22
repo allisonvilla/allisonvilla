@@ -5,7 +5,7 @@
 ### ✨ My current tech stack:
 
 #### Languages: 
-JavaScript
+JavaScript, TypeScript
 
 #### JS Frameworks & Libraries: 
 ReactJS, VueJS, NextJS
@@ -14,8 +14,8 @@ ReactJS, VueJS, NextJS
 Sass, Tailwind
 
 ### 💻 What I'm working on lately:
-Learning Jest and TypeScript
+Learning TypeScript and Supabase
 
-#### 📫 I'd love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/allisonvilla/ "Link to my LinkedIn profile") or at allisonvilla.dev@gmail.com.
+#### 📫 I'd love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/allisonvilla/ "Link to my LinkedIn profile") or check out my [portfolio](https://allisonv.dev/ "Link to my portfolio").
 
 </div>
