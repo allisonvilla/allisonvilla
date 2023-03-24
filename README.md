@@ -13,8 +13,8 @@ ReactJS, VueJS, NextJS
 #### CSS Frameworks & Preprocessors:
 Sass, Tailwind
 
-### 💻 What I'm working on lately:
-Learning TypeScript and SQL
+<!-- ### 💻 What I'm working on lately:
+ -->
 
 #### 📫 I'd love to connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/allisonvilla/ "Link to my LinkedIn profile") or check out my [portfolio](https://allisonv.dev/ "Link to my portfolio").
 
