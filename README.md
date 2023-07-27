@@ -5,7 +5,7 @@
 ### ✨ My current tech stack:
 
 #### Languages: 
-JavaScript, TypeScript
+JavaScript, TypeScript, Python
 
 #### JS Frameworks & Libraries: 
 ReactJS, VueJS, NextJS
