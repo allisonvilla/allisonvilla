@@ -8,10 +8,7 @@
 JavaScript, TypeScript, Python
 
 #### JS Frameworks & Libraries: 
-ReactJS, VueJS, NextJS
-
-#### CSS Frameworks & Preprocessors:
-Sass, Tailwind
+ReactJS, VueJS, NextJS, Astro
 
 <!-- ### 💻 What I'm working on lately:
  -->
