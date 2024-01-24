@@ -8,7 +8,7 @@
 JavaScript, TypeScript, Python
 
 #### JS Frameworks & Libraries: 
-ReactJS, VueJS, NextJS, Astro
+React, Vue, NextJS, Astro
 
 <!-- ### 💻 What I'm working on lately:
  -->
