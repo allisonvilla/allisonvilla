@@ -1,4 +1,4 @@
-<h1 align="center">😊 Hi there! I'm Allison, a front end developer.</h1>
+<h1 align="center">😊 Hi there! I'm Allison, a frontend developer.</h1>
 
 <div align="center">
 
